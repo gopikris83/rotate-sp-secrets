@@ -1,1 +1,1 @@
-# Rotate-SPN-Secrets
+# Rotate-sp-secrets
