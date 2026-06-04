@@ -134,4 +134,4 @@ Rotation is automated via GitHub Actions:
 
 ## 🔙 Back to Main Documentation
 
-[← Back to CDX Terraform Infrastructure](../README.md)
+[← Back to Rotate SP Project](../README.md)
